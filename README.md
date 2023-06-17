@@ -1,1 +1,2 @@
 # HackerNews
+HackerNews is a Python program powered by BeautifulSoup, designed to scrape and filter useful news from the Hacker News website. By leveraging web scraping techniques, it intelligently selects and displays only the most relevant and valuable articles. By filtering out irrelevant or low-quality content, HackerNews provides users with a curated selection of news that is truly informative and worthwhile. 
